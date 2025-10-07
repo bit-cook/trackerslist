@@ -1,5 +1,7 @@
 udp://tracker.opentrackr.org:1337/announce
 
+http://tracker.opentrackr.org:1337/announce
+
 udp://public.demonoid.ch:6969/announce
 
 udp://open.demonoid.ch:6969/announce
@@ -26,6 +28,10 @@ udp://tracker.srv00.com:6969/announce
 
 udp://tracker.qu.ax:6969/announce
 
+udp://tracker.ololosh.space:6969/announce
+
+udp://tracker.filemail.com:6969/announce
+
 udp://tracker.dler.org:6969/announce
 
 udp://run.publictracker.xyz:6969/announce
@@ -40,7 +46,9 @@ udp://opentracker.io:6969/announce
 
 udp://open.dstud.io:6969/announce
 
-udp://discord.heihachi.pw:6969/announce
+udp://glotorrents.pw:6969/announce
+
+udp://bt.rer.lol:2710/announce
 
 udp://6ahddutb1ucc3cp.ru:6969/announce
 
@@ -61,8 +69,6 @@ http://www.genesis-sp.org:2710/announce
 http://wepzone.net:6969/announce
 
 http://tracker810.xyz:11450/announce
-
-http://tracker2.dler.org:80/announce
 
 http://tracker1.bt.moack.co.kr:80/announce
 
@@ -90,6 +96,8 @@ http://tracker.ipv6tracker.org:80/announce
 
 http://tracker.dmcomic.org:2710/announce
 
+http://tracker.dler.org:6969/announce
+
 http://tracker.cutie.dating:80/announce
 
 http://tracker.corpscorp.online:80/announce
@@ -99,6 +107,8 @@ http://tracker.bz:80/announce
 http://tracker.bt-hash.com:80/announce
 
 http://tracker.bittor.pw:1337/announce
+
+http://tr.kxmp.cf:80/announce
 
 http://torrent.hificode.in:6969/announce
 
@@ -121,8 +131,6 @@ http://open.trackerlist.xyz:80/announce
 http://ipv4.rer.lol:2710/announce
 
 http://home.yxgz.club:6969/announce
-
-http://extracker.dahrkael.net:6969/announce
 
 http://buny.uk:6969/announce
 
@@ -184,8 +192,6 @@ udp://concen.org:6969/announce
 
 udp://bt.rer.lol:6969/announce
 
-udp://bt.rer.lol:2710/announce
-
 udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 
 udp://bandito.byterunner.io:6969/announce
@@ -203,6 +209,8 @@ https://tracker.gcrenwp.top:443/announce
 https://tr.zukizuki.org:443/announce
 
 https://t.213891.xyz:443/announce
+
+http://tracker2.dler.org:80/announce
 
 http://tracker.zhuqiy.top:80/announce
 
