@@ -44,6 +44,8 @@ http://tracker.bt-hash.com:80/announce
 
 http://tracker.bittor.pw:1337/announce
 
+http://tr.kxmp.cf:80/announce
+
 http://torrent.hificode.in:6969/announce
 
 http://shubt.net:2710/announce
@@ -73,8 +75,6 @@ http://buny.uk:6969/announce
 http://bt1.xxxxbt.cc:6969/announce
 
 http://bt.poletracker.org:2710/announce
-
-http://1337.abcvg.info:80/announce
 
 http://0d.kebhana.mx:443/announce
 
