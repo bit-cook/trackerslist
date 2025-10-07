@@ -1,3 +1,5 @@
+http://tracker.opentrackr.org:1337/announce
+
 http://www.torrentsnipe.info:2701/announce
 
 http://www.genesis-sp.org:2710/announce
