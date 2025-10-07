@@ -22,7 +22,11 @@ udp://77.91.85.95:6969/announce
 
 udp://45.13.119.213:6969/announce
 
-udp://34.94.76.146:1337/announce
+udp://34.94.76.146:6969/announce
+
+udp://52.58.128.163:6969/announce
+
+udp://211.75.205.188:6969/announce
 
 udp://83.102.180.21:80/announce
 
@@ -34,17 +38,9 @@ udp://45.9.60.30:6969/announce
 
 udp://5.45.69.185:6969/announce
 
-udp://220.200.35.40:6969/announce
-
-udp://220.200.35.40:2710/announce
-
 udp://185.189.13.108:6969/announce
 
 udp://5.102.159.190:6969/announce
-
-http://35.227.59.57:2701/announce
-
-http://35.227.59.57:2710/announce
 
 http://44.30.4.4:6969/announce
 
@@ -56,11 +52,13 @@ http://156.234.201.18:80/announce
 
 http://34.94.76.146:6969/announce
 
-http://35.227.59.57:6969/announce
+http://142.171.85.76:6969/announce
 
 http://45.13.119.213:6969/announce
 
 http://95.217.167.10:6969/announce
+
+http://35.227.59.57:2710/announce
 
 http://34.94.76.146:80/announce
 
@@ -72,15 +70,11 @@ http://34.94.76.146:1337/announce
 
 http://34.94.76.146:2710/announce
 
-http://35.227.59.57:80/announce.php
-
-http://62.60.157.92:6969/announce
-
 http://185.230.4.150:1337/announce
 
 http://220.200.35.40:2710/announce
 
-http://35.227.59.57:443/announce
+http://35.227.59.57:6969/announce
 
 udp://23.175.184.30:23333/announce
 
@@ -104,8 +98,6 @@ udp://209.141.59.25:6969/announce
 
 udp://5.255.124.190:6969/announce
 
-udp://211.75.205.188:6969/announce
-
 udp://111.90.151.241:6969/announce
 
 udp://191.255.193.16:6969/announce
@@ -116,11 +108,15 @@ udp://185.216.179.62:25/announce
 
 udp://94.23.207.177:6969/announce
 
+udp://220.200.35.40:2710/announce
+
 udp://23.163.56.66:6969/announce
 
 udp://176.99.7.59:6969/announce
 
 udp://37.59.48.81:6969/announce
+
+udp://220.200.35.40:6969/announce
 
 udp://107.189.2.131:1337/announce
 
@@ -136,9 +132,13 @@ http://123.245.62.7:6969/announce
 
 http://191.255.193.16:6969/announce
 
+http://35.227.59.57:80/announce.php
+
 http://185.130.47.2:6969/announce
 
 http://79.111.12.213:6969/announce
 
 http://107.189.2.131:1337/announce
+
+http://35.227.59.57:443/announce
 
